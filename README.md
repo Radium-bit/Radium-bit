@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Radium-bit/Radium-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# [Radium-bit here~ 👋](https://radium-bit.github.io)
+Welcome to my Github! Nice to meet you.
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Radium-bit&show_icons=true)
+
