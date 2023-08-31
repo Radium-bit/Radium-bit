@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # [Radium-bit here~ 👋](https://radium-bit.github.io)
 Welcome to my Github! Nice to meet you.  
 If you want to authenticate your download or send me encrypted,see [my PGP Public key.](https://github.com/Radium-bit/PGP-Public-Keys)  
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Radium-bit&show_icons=true&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Radium-bit&show_icons=true) <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Radium-bit&layout=compact&count_private=false&hide_border=true" alt="">
 
 ![](https://count.getloli.com/get/@Radium-bit?theme=rule12)
 
